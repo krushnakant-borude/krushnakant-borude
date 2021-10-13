@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krushnakant-borude
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning SQL, Python, R, Tableau
+- 🌱 I’m currently learning SQL, Python, Tableau
 - 📫 How to reach me krushnaborude9007@gmail.com
 
 <!---
