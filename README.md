@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krushnakant-borude
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning SQL, Python, Tableau
-- 📫 How to reach me krushnaborude9007@gmail.com
+- 🌱 I’m currently learning SQL, Python, Tableau, Excel
+- 📫 How to reach me krushnaborude9008@gmail.com
 
 <!---
 krushnakant-borude/krushnakant-borude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
