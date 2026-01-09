@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krushnakant-borude
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning SQL, Python, Tableau, Excel
+- 👀 I’m interested in data Science
+- 🌱 I’m having skills in Machine Learning, Deep Learning, MLOPs
 - 📫 How to reach me krushnaborude9008@gmail.com
 
 <!---
