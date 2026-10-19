@@ -12,7 +12,7 @@
 
 I'm a Mechanical Engineer with a **B.Tech from the National Institute of Technology Agartala (CGPA: 8.81/10)** and **3+ years of professional experience at Alstom** in railway carbody structural design and system integration.
 
-My work and projects bring together mechanical design, computational methods, engineering automation, and applied AI. I'm preparing for master's study in Germany, with interests across two closely related areas:
+My work and projects bring together mechanical design, computational methods, simulation, and AI-assisted engineering knowledge retrieval. I'm preparing for master's study in Germany, with interests across two closely related areas:
 
 - **Computational Engineering:** scientific computing, numerical methods, mathematical modelling, and engineering simulation.
 - **Mechatronics & Autonomous Systems:** vehicle development, computer vision, automation, and intelligent mobility.
@@ -29,12 +29,11 @@ My work and projects bring together mechanical design, computational methods, en
 
 ### Computational Engineering & Simulation
 
-- **One-Dimensional Heat-Equation Solver** — Implemented a Python solver for the 1D heat equation and compared Forward Euler, Backward Euler, and Crank–Nicolson schemes to study numerical behaviour.
+- **One-Dimensional Heat-Equation Solver Study** — Worked through an existing open-source Python finite-difference implementation for the transient 1D heat equation and modified selected parts. Studied Forward Euler, Backward Euler, and Crank–Nicolson schemes and examined the existing error-comparison workflow across spatial and time-step refinements. The starting point is the [open-source implementation by Harry Blakiston Houston](https://github.com/hcbh96/parabolic_pde_solver); I do not claim to have independently developed the complete solver, accuracy explorer, or original test suite.
 - **Hybrid-Powered Mini Kitchen Chimney** — Undergraduate research project involving SolidWorks CAD modelling, ANSYS CFD analysis, physical prototype construction, and project documentation. The work was published in the *International Journal of Energy and Thermal Applications* in 2023.
 
-### Engineering Automation & Generative AI
+### Engineering Knowledge Retrieval & Generative AI
 
-- **Engineering BOM Automation Prototype** — Built a Python prototype to roll up quantities through parent–child BOM relationships, classify buy-or-make items, and identify aluminium profiles. Calculations remain in deterministic Python logic, with a language model used for query interpretation and response formatting.
 - **Local REX Assistant — Engineering Lessons Learned** — Developed a local RAG assistant to search engineering lessons-learned records stored in Excel and return source-grounded answers. Used Ollama, ChromaDB, Streamlit, embeddings, and semantic-plus-BM25 retrieval.
 - **Mech Expert Bot — Engineering Standards PDF Assistant** — Built a document-question-answering prototype for engineering standards, using PDF ingestion, embeddings, persistent ChromaDB retrieval, and source-level citations.
 
@@ -59,7 +58,7 @@ Borude, K. H. (2023). **“Mathematical Modeling and CFD Analysis for Prototype 
 - **Numerical & Computational Methods:** numerical time-stepping schemes, mathematical modelling, heat-equation simulation
 - **Machine Learning & Computer Vision:** machine learning, deep learning, TensorFlow/Keras, CNNs, OpenCV, image processing, traffic-sign classification
 - **Data Science & NLP:** data science fundamentals, natural language processing (NLP), embeddings, semantic retrieval
-- **Engineering Automation & RAG:** Ollama, ChromaDB, BM25 retrieval, LangChain, Streamlit, PDF/Excel ingestion, source-grounded responses
+- **Local RAG & Engineering Knowledge Retrieval:** Ollama, ChromaDB, BM25 retrieval, LangChain, Streamlit, PDF/Excel ingestion, source-grounded responses
 - **Cloud & MLOps:** AWS S3, EC2, ECR, EKS, Docker, GitHub Actions
 - **Engineering Methods:** DFMEA, DVP, root cause analysis, 5 Why analysis, engineering change management, BOM/configuration consistency
 - **Version Control:** Git, GitHub
@@ -71,7 +70,7 @@ Borude, K. H. (2023). **“Mathematical Modeling and CFD Analysis for Prototype 
 - Computational fluid dynamics and engineering validation
 - Mechatronics, automation, control, and autonomous systems
 - Vehicle development and intelligent mobility
-- Engineering data automation and locally deployed RAG systems
+- Engineering knowledge retrieval and locally deployed RAG systems
 
 ## 📫 Contact
 
