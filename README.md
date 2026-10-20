@@ -49,7 +49,7 @@ My work and projects bring together mechanical design, computational methods, si
 
 ## 📄 Publication
 
-Borude, K. H. (2023). **“Mathematical Modeling and CFD Analysis for Prototype Model Development of a Low-Cost Hybrid Power-Operated Mini Kitchen Chimney for Rural Households.”** *International Journal of Energy and Thermal Applications.*
+Krushnakant Borude, Abhishek Bhadauria, and Ashis Acharjee (2023). **“Mathematical Modeling and CFD Analysis for Protype Model Development of a Low-cost Hybrid Power Operated Mini Kitchen Chimney for Rural Households.”** *International Journal of Energy and Thermal Applications, 1*(1), 14–28.
 
 ## 🛠️ Technical Skills
 
